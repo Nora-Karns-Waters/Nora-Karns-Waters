@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nora-Karns-Waters
+- 👀 I’m interested in software and game engineering
+- 🌱 I’m currently learning AI and physics algorithms
+- 📫 How to reach me nkarnswaters@gmail.com
